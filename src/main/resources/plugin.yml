@@ -1,0 +1,13 @@
+name: KinokoGari
+version: ${project.version}
+main: me.tererun.plugin.kinokogari.kinokogari.KinokoGari
+api-version: 1.16
+authors: [ tererun ]
+description: KinokoGari
+commands:
+  kinokogari:
+    description: kinokogari
+permissions:
+  kinokogari:
+    description: kinokogari
+    default: false
